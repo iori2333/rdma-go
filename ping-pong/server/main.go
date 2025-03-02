@@ -8,7 +8,7 @@ import (
 	"net"
 	"strings"
 
-	"rmda-go/rsocket"
+	"rdma-go/rsocket"
 )
 
 var (

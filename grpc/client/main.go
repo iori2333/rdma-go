@@ -6,8 +6,8 @@ import (
 	"google.golang.org/grpc/credentials/insecure"
 	"log"
 	"net"
-	proto2 "rmda-go/grpc/proto"
-	"rmda-go/rsocket"
+	proto2 "rdma-go/grpc/proto"
+	"rdma-go/rsocket"
 	"time"
 )
 

@@ -7,7 +7,7 @@ import (
 	"log"
 	"os"
 
-	"rmda-go/rsocket"
+	"rdma-go/rsocket"
 )
 
 var (

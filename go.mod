@@ -1,4 +1,4 @@
-module rmda-go
+module rdma-go
 
 go 1.24
 
